@@ -1,0 +1,3 @@
+*.live.bidi.net.uk
+*.bidi.net.uk
+*bbci.co.uk
