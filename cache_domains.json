@@ -121,6 +121,26 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "sky",
+			"description": "CDN for sky",
+			"domain_files": ["sky.txt"]
+		},
+		{
+			"name": "bbc",
+			"description": "CDN for bbc",
+			"domain_files": ["bbc.txt"]
+		},
+		{
+			"name": "itvx",
+			"description": "CDN for itvx",
+			"domain_files": ["itvx.txt"]
+		},
+		{
+			"name": "cloudfront",
+			"description": "CDN for cloudfront",
+			"domain_files": ["cloudfront.txt"]
 		}
 	]
 }
