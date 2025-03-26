@@ -141,6 +141,11 @@
 			"name": "cloudfront",
 			"description": "CDN for cloudfront",
 			"domain_files": ["cloudfront.txt"]
+		},
+		{
+			"name": "channel4",
+			"description": "CDN for channel 4",
+			"domain_files": ["channel4.txt"]
 		}
 	]
 }
